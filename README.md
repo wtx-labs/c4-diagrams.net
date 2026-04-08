@@ -1,8 +1,17 @@
 # EasyC4 for diagrams.net
+---
+
+## 🚀 New online tool — EasyC4 Diagram Creator ⚡
+
+**Try the free online tool - [c4.wtx.pl](https://c4.wtx.pl)** - easy **C4 diagram creator** for **PlantUML** and **Mermaid**.
+
+**Convert** your **C4** diagram text to **draw.io / diagrams.net** (`.drawio`) using **EasyC4** library shapes. Download the file and **keep editing** your architecture diagram **visually** in the app.
+
+Just paste, download, and open in **diagrams.net** or **draw.io** - takes seconds!
 
 ---
 
-Please check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
+Please also check the **newest version** of my plugin available at https://github.com/hycomsa/hycom-c4
 
 The new version contains slightly smaller, more compact elements - it seems to be more readable. You also find there an additional type of container - mobile application - and a deployment node boundary. Maybe a new version will be more suitable for you.
 
